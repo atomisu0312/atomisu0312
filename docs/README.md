@@ -1,3 +1,13 @@
+---
+title: "Layout: Hero Image"
+categories:
+  - Layout
+tags:
+  - content
+  - image
+  - layout
+---
+
 ## Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atomisu0312&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
