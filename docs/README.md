@@ -1,8 +1,3 @@
----
-layout: post
-title: 山下の職務経歴書
----
-
 ## Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atomisu0312&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
