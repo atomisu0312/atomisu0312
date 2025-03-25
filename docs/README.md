@@ -1,11 +1,6 @@
 ---
-title: "Layout: Hero Image"
-categories:
-  - Layout
-tags:
-  - content
-  - image
-  - layout
+layout: post
+title: 山下の職務経歴書
 ---
 
 ## Github Stats
