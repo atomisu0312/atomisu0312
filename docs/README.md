@@ -9,6 +9,19 @@
 |最終学歴|工学博士前期課程修了|
 |趣味|温泉&海鮮巡り、映画鑑賞、筋トレ|
 
+## スキル
+
+自己申告を多分に含みますが、経験のあるものを以下に列挙します。
+
+### 言語
+Java | TypeScript | Python | Golang | Rust | SQL
+
+### 経験のあるフレームワーク
+Spring Boot | echo(Golang) | Next.js | React.js | Vue.js | jQuery | fastAPI
+
+### クラウド技術(主にAWS)
+ECS | EKS | SageMaker | Glue | Lambda | EC2 | RDS | EventBridge | CloudFront | CloudFormation | Terraform
+
 ## 職務経歴
 ### 職歴
 
@@ -125,6 +138,7 @@ OSIにおける7階層のうちの第1層以下を極めることができた非
 ##### フロント/バックエンド
 
 - Spring Boot
+- Thymeleaf
 
 ##### データベース
 
