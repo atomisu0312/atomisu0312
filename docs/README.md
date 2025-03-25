@@ -22,6 +22,15 @@ Spring Boot | echo(Golang) | Next.js | React.js | Vue.js | jQuery | fastAPI
 ### クラウド技術(主にAWS)
 ECS | EKS | SageMaker | Glue | Lambda | EC2 | RDS | EventBridge | CloudFront | CloudFormation | Terraform
 
+### 保有資格
+
+主要なもののみ提示しています。
+
+- AWS Certified Solutions Architect - Professional
+- AWS Certified Machine Learning Engineer - Associate
+- 第一級陸上無線技術士
+- 基本情報技術者
+
 ## 職務経歴
 ### 職歴
 
@@ -30,13 +39,6 @@ ECS | EKS | SageMaker | Glue | Lambda | EC2 | RDS | EventBridge | CloudFront | C
 |2019/04|〜|2021/3|早稲田大学大学院<br/>地球・環境資源<br/>理工学専攻|学生|
 |2021/04|〜|2023/7|防衛省情報本部<br/>電波部第7課<br/>解析研究室|研究員|
 |2023/07|〜|現在|株式会社豆蔵|エンジニア|
-
-### 保有資格
-
-主要なもののみ提示しています。
-
-- 第一級陸上無線技術士
-- AWS Certified Solutions Architect - Professional
  
 ### 自身の沿革
 学生時代は電磁波の動きをコンピュータで解析し、資源探索に生かす研究を行っておりました。
